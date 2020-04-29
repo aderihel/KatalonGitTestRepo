@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry VE - Additional Data is Null</name>
+   <tag></tag>
+   <comment>unixTime
+result.toString()
+#18 Verify Verify if Response Code is not null
+#20 Verify Verify if Response Id is not null
+#22 Verify Verify if Response Refnum is not null
+#24 Verify Verify if Response Desc is not null
+#26 Verify Verify if Response Data is not null
+#28 Verify Verify if Response Code Length is 2
+#30 Verify Verify if Response Refnum Length is 12
+#32 Verify Verify if Response Code is VE</comment>
+   <testCaseGuid>16db93eb-2871-45f9-aa13-1f80f3a543e4</testCaseGuid>
+</TestCaseEntity>

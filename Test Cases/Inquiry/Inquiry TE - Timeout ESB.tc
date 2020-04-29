@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry TE - Timeout ESB</name>
+   <tag></tag>
+   <comment>result.toString()
+#24 Verify Verify if Response Code is not null
+#26 Verify Verify if Response Id is not null
+#28 Verify Verify if Response Refnum is not null
+#30 Verify Verify if Response Desc is not null
+#32 Verify Verify if Response Data is not null
+#34 Verify Verify if Response Code Length is 2
+#36 Verify Verify if Response Refnum Length is 12
+#38 Verify Verify if Response Code is 00
+refnum = &quot; + trx_refnum + &quot;, trx type = &quot; + trx_type + &quot;, trx status = &quot; + trx_status + &quot;, trx object = &quot; + trx_object + &quot;, trx date = &quot; + trx_date + &quot;, ip address = &quot; + trx_ip + &quot; &amp; &quot; + &quot;agent = &quot; + trx_agent
+#50 Verify if Trx Refnum value and Request Refnum is matched
+#52 Verify if Trx Type value is InquiryPurchaseGopay
+#54 Verify if Trx Status value is Sukses
+#56 Verify if Trx Object value is BRIMON - 00</comment>
+   <testCaseGuid>aad37a74-e54f-4f48-867b-41a581b454f9</testCaseGuid>
+</TestCaseEntity>

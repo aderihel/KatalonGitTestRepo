@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry VE - Purchase Number Lebih dari 15</name>
+   <tag></tag>
+   <comment>result.toString()
+#24 Verify Verify if Response Code is not null
+#26 Verify Verify if Response Id is not null
+#28 Verify Verify if Response Refnum is not null
+#30 Verify Verify if Response Desc is not null
+#32 Verify Verify if Response Data is not null
+#34 Verify Verify if Response Code Length is 2
+#36 Verify Verify if Response Refnum Length is 12
+#38 Verify Verify if Response Code is VE</comment>
+   <testCaseGuid>630c4b7e-c752-4d8c-9d9b-371ce6d78355</testCaseGuid>
+</TestCaseEntity>

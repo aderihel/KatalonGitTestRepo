@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry 00 - Driver</name>
+   <tag></tag>
+   <comment>result.toString()
+#24 Verify Verify if Response Code is not null
+#26 Verify Verify if Response Id is not null
+#28 Verify Verify if Response Refnum is not null
+#30 Verify Verify if Response Desc is not null
+#32 Verify Verify if Response Data is not null
+#34 Verify Verify if Response Code Length is 2
+#36 Verify Verify if Response Refnum Length is 12
+#38 Verify Verify if Response Code is 00
+refnum = &quot; + trx_refnum + &quot;, trx type = &quot; + trx_type + &quot;, trx status = &quot; + trx_status + &quot;, trx object = &quot; + trx_object + &quot;, trx date = &quot; + trx_date + &quot;, ip address = &quot; + trx_ip + &quot; &amp; &quot; + &quot;agent = &quot; + trx_agent
+#50 Verify if Trx Refnum value and Request Refnum is matched
+#52 Verify if Trx Type value is InquiryPurchaseGopay
+#54 Verify if Trx Status value is Sukses
+#56 Verify if Trx Object value is BRIMON - 00</comment>
+   <testCaseGuid>54f87238-6c94-466e-8e0c-a89f3efd1d6c</testCaseGuid>
+</TestCaseEntity>

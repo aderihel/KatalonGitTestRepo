@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry VE - Client Field Kosong</name>
+   <tag></tag>
+   <comment>result.toString()
+#24 Verify Verify if Response Code is not null
+#26 Verify Verify if Response Id is not null
+#28 Verify Verify if Response Refnum is not null
+#30 Verify Verify if Response Desc is not null
+#32 Verify Verify if Response Data is not null
+#34 Verify Verify if Response Code Length is 2
+#36 Verify Verify if Response Refnum Length is 12
+#38 Verify Verify if Response Code is VE</comment>
+   <testCaseGuid>117577f9-238f-4656-8385-2d997dd63969</testCaseGuid>
+</TestCaseEntity>
